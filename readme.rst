@@ -8,6 +8,8 @@ It displays a list of contacts, and isn't very useful on its own.
 
 It is meant to demonstrate different components of a CI webapp.
 
+A screenshot of the running app is found in the project root.
+
 **************
 Intended Usage
 **************
